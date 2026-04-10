@@ -1,2 +1,3 @@
 def sq_num(n):
-    return 0
+    print(f"DEBUG: Input is {n}")
+    return n ** 0.5
